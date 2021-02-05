@@ -1,0 +1,218 @@
+# depslib dependency file v1.0
+1481833490 source:c:\users\user\documents\assembler1\main.cpp
+	<bits/stdc++.h>
+	"R_type.cpp"
+	"I_type.cpp"
+
+1511451360 p"
+
+1481636869 c:\users\user\documents\assembler1\r_type.h
+	<bits/stdc++.h>
+
+1511450598 ++.h>
+
+1481833260 c:\users\user\documents\assembler1\r_type.cpp
+	"R_type.h"
+
+1511680646 
+
+1481832821 c:\users\user\documents\assembler1\i_type.cpp
+	"I_type.h"
+
+1481803948 c:\users\user\documents\assembler1\i_type.h
+	<bits/stdc++.h>
+
+1511273983 source:f:\nsu\cse332\imam\assembler1-zipped(new)\assembler1\main.cpp
+	<bits/stdc++.h>
+	"R_type.cpp"
+	"I_type.cpp"
+
+1511274881 f:\nsu\cse332\imam\assembler1-zipped(new)\assembler1\r_type.cpp
+	"R_type.h"
+
+1481868972 f:\nsu\cse332\imam\assembler1-zipped(new)\assembler1\r_type.h
+	<bits/stdc++.h>
+
+1481868350 f:\nsu\cse332\imam\assembler1-zipped(new)\assembler1\i_type.cpp
+	"I_type.h"
+
+1481868350 f:\nsu\cse332\imam\assembler1-zipped(new)\assembler1\i_type.h
+	<bits/stdc++.h>
+
+1511435883 source:c:\users\administrator\downloads\assembler\main.cpp
+	<bits/stdc++.h>
+	"R_type.cpp"
+	"I_type.cpp"
+
+1511434227 c:\users\administrator\downloads\assembler\r_type.cpp
+	"R_type.h"
+
+1481868972 c:\users\administrator\downloads\assembler\r_type.h
+	<bits/stdc++.h>
+
+1481868350 c:\users\administrator\downloads\assembler\i_type.cpp
+	"I_type.h"
+
+1481868350 c:\users\administrator\downloads\assembler\i_type.h
+	<bits/stdc++.h>
+
+1511439954 source:f:\new folder\assembler\main.cpp
+	<bits/stdc++.h>
+	"R_type.cpp"
+	"I_type.cpp"
+
+1511434228 f:\new folder\assembler\r_type.cpp
+	"R_type.h"
+
+1481868972 f:\new folder\assembler\r_type.h
+	<bits/stdc++.h>
+
+1511445348 f:\new folder\assembler\i_type.cpp
+	"I_type.h"
+
+1481868350 f:\new folder\assembler\i_type.h
+	<bits/stdc++.h>
+
+1511449738 source:d:\assembler\main.cpp
+	<bits/stdc++.h>
+	<sstream>
+	"R_type.cpp"
+	"I_type.cpp"
+
+1511449213 d:\assembler\r_type.cpp
+	"R_type.h"
+
+1481868972 d:\assembler\r_type.h
+	<bits/stdc++.h>
+
+1511445478 d:\assembler\i_type.cpp
+	"I_type.h"
+
+1481868350 d:\assembler\i_type.h
+	<bits/stdc++.h>
+
+1511450272 source:f:\updated assembler\main.cpp
+	<bits/stdc++.h>
+	<sstream>
+	"R_type.cpp"
+	"I_type.cpp"
+
+1511450272 f:\updated assembler\r_type.cpp
+	"R_type.h"
+
+1481868972 f:\updated assembler\r_type.h
+	<bits/stdc++.h>
+
+1511451232 f:\updated assembler\i_type.cpp
+	"I_type.h"
+
+1511450598 f:\updated assembler\i_type.h
+	<bits/stdc++.h>
+
+1511451360 source:c:\users\administrator\desktop\updated assembler\main.cpp
+	<bits/stdc++.h>
+	<sstream>
+	"R_type.cpp"
+	"I_type.cpp"
+
+1511450272 c:\users\administrator\desktop\updated assembler\r_type.cpp
+	"R_type.h"
+
+1481868972 c:\users\administrator\desktop\updated assembler\r_type.h
+	<bits/stdc++.h>
+
+1511680646 c:\users\administrator\desktop\updated assembler\i_type.cpp
+	"I_type.h"
+
+1511450598 c:\users\administrator\desktop\updated assembler\i_type.h
+	<bits/stdc++.h>
+
+1511451360 source:/home/pc-07/Documents/updated Assembler/main.cpp
+	<bits/stdc++.h>
+	<sstream>
+	"R_type.cpp"
+	"I_type.cpp"
+
+1511450272 /home/pc-07/Documents/updated Assembler/R_type.cpp
+	"R_type.h"
+
+1481868972 /home/pc-07/Documents/updated Assembler/R_type.h
+	<bits/stdc++.h>
+
+1511683609 /home/pc-07/Documents/updated Assembler/I_type.cpp
+	"I_type.h"
+
+1511450598 /home/pc-07/Documents/updated Assembler/I_type.h
+	<bits/stdc++.h>
+
+1512643572 source:g:\updated assembler\main.cpp
+	<bits/stdc++.h>
+	<sstream>
+	<string>
+	<iostream>
+	"R_type.cpp"
+	"I_type.cpp"
+
+1512568618 g:\updated assembler\r_type.cpp
+	"R_type.h"
+
+1511684084 g:\updated assembler\r_type.h
+	<bits/stdc++.h>
+
+1512570762 g:\updated assembler\i_type.cpp
+	"I_type.h"
+
+1511684084 g:\updated assembler\i_type.h
+	<bits/stdc++.h>
+
+1512845094 source:f:\nsu\cse332\updated assembler\main.cpp
+	<bits/stdc++.h>
+	"R_type.cpp"
+	"I_type.cpp"
+
+1512740981 f:\nsu\cse332\updated assembler\r_type.cpp
+	"R_type.h"
+
+1511684084 f:\nsu\cse332\updated assembler\r_type.h
+	<bits/stdc++.h>
+
+1512570762 f:\nsu\cse332\updated assembler\i_type.cpp
+	"I_type.h"
+
+1511684084 f:\nsu\cse332\updated assembler\i_type.h
+	<bits/stdc++.h>
+
+1513670325 source:c:\users\nayee\desktop\cse332 project\final assembler\main.cpp
+	<bits/stdc++.h>
+	"R_type.cpp"
+	"I_type.cpp"
+
+1512740981 c:\users\nayee\desktop\cse332 project\final assembler\r_type.cpp
+	"R_type.h"
+
+1511684084 c:\users\nayee\desktop\cse332 project\final assembler\r_type.h
+	<bits/stdc++.h>
+
+1512570762 c:\users\nayee\desktop\cse332 project\final assembler\i_type.cpp
+	"I_type.h"
+
+1511684084 c:\users\nayee\desktop\cse332 project\final assembler\i_type.h
+	<bits/stdc++.h>
+
+1513766206 source:c:\users\nayee\desktop\cse332 project\assembler\main.cpp
+	<bits/stdc++.h>
+	"R_type.cpp"
+	"I_type.cpp"
+
+1513766763 c:\users\nayee\desktop\cse332 project\assembler\r_type.cpp
+	"R_type.h"
+
+1511684084 c:\users\nayee\desktop\cse332 project\assembler\r_type.h
+	<bits/stdc++.h>
+
+1512570762 c:\users\nayee\desktop\cse332 project\assembler\i_type.cpp
+	"I_type.h"
+
+1511684084 c:\users\nayee\desktop\cse332 project\assembler\i_type.h
+	<bits/stdc++.h>
+

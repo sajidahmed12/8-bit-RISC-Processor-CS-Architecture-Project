@@ -1,0 +1,12 @@
+sub $s1,$s1
+sub $s2,$s2
+sub $s3,$s3
+sub $ac,$ac
+lw $s1, 1
+lw $s2, 1
+add $ac,$s1
+lw $s1,2
+sub $ac,$ac
+add $ac,$s2
+lw $s2,3
+sub $ac,$ac
