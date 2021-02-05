@@ -1,5 +1,6 @@
 # 8-bit-RISC-Processor Computer Architecture-Project. 
 This a project designed by a group of undergraduate students for the Computer Architecture Course Project. 
+### Build using Logisim and C++ 
 
 The task was to design an 8 bit single-cycle CPU that has separate Data Memory and Instruction Memory. 
 There is a total of three parts to this Project.
@@ -28,7 +29,6 @@ ISA Instruction Set Architecture. The First part of the project was to build our
                           opcode  Target
                           3 bits	5 bits
 
-
 # Assembler:
 Assemblers can automatically generate a machine code from an assembly file written code in C++. In this project, According to the ISA, The assembler reads a program written using assembly language in a text file, then translates it into binary code and generates an output file(.txt) containing machine code. The generated output files will later be useful to run a program in the actual 8-bit Processor.
 
@@ -45,3 +45,5 @@ All the instructions are then converted into a Hexadecimal format. Then we saved
 
 ## A demo instruction file can be found on the Assembler folder named demo_I.txt. 
 In logisim datapath. Circ file just loads the file as an image in ROM/Instruction memory and then gives the clock to execute the instructions.
+There is a input.txt file which takes the input and the output.txt file outputs the intructions as Hexadecimal numbers. Ready to run the intructions on the 8 bit CPU. 
+
