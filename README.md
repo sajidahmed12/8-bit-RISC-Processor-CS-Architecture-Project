@@ -17,14 +17,14 @@ c) Loop type of programs
 # ISA
 ISA Instruction Set Architecture. The First part of the project was to build our own ISA based on MIPS 32 bit ISA. Since we had only 8 bits, we had to allocate out bits very carefully, and we had to select the number of instructions as well. We have designed the ISA format as follows.  
 
-(R-Type) ISA Format
+## (R-Type) ISA Format
                           opcode	rd	    rs	    Shift Amount
                           3 bits	2 bits	2 bits	1 bits
 
-(I-Type) ISA Format
+## (I-Type) ISA Format
                           opcode	rd	    Immediate
                           3 bits	2 bits	3 bits
-(J-Type) ISA Format
+## (J-Type) ISA Format
                           opcode	Target
                           3 bits	5 bits
 
