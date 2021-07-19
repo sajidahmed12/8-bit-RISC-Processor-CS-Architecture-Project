@@ -82,7 +82,7 @@ In this part of the project, we have designed the complete Single Cycle processo
 
 # Datapath 
 <p align="center">
-  <img src="doc/datapath.JPG">
+  <img src="doc/Datapath.JPG">
 </p>
 
 
