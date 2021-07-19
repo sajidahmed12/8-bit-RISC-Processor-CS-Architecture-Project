@@ -103,7 +103,7 @@ for (int i = 0, i < a ; i++){       Example:  [ i = $s1, a = $s2 x = $s3 ]
 }
 
 ```
-* ## For Loop in 8 Bit Assembly :
+* ## For Loop using 8 Bit Assembly :
 ```
 sub $s1,$s1
 sub $ac,$ac ac = 0
