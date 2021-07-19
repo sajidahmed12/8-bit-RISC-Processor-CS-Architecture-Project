@@ -63,8 +63,9 @@ sw: It stores specific value from register to memory.
 * beq : It checks whether the values of two register s are same or not. If it is same it
 ```
  performs the following operation
-• Operation: if (d == s) jump to offset
-else goto next line
+• Operation: if (d == s)  jump to offset
+else 
+goto next line
 • Syntax: beq $rd, offset (if $rd == $AC, goto offset location )
 ```
 
