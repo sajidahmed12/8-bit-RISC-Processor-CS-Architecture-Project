@@ -31,7 +31,7 @@ ISA Instruction Set Architecture. The First part of the project was to build our
 
 # List of Instructions 
 <p align="center">
-  <img src="doc/ISA.jpg">
+  <img src="doc/ISA.JPG">
 </p>
 
 ## Examples 
@@ -82,7 +82,7 @@ In this part of the project, we have designed the complete Single Cycle processo
 
 # Datapath 
 <p align="center">
-  <img src="doc/datapath.jpg">
+  <img src="doc/datapath.JPG">
 </p>
 
 
